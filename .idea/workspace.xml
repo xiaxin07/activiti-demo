@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="758f1604-f057-4657-88ca-f243148829fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="new-activiti-diagram.bpmn20" />
+        <option value="BpmnFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1qp2XI3Th7TCq1GxjZoMgOvHHvT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/BasicDemo/src/main/java/com/roy/demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\a备课资料\activiti\ActivitiDemo\ActSpringDemo\src\main\java\com\roy\" />
+      <recent name="E:\a备课资料\activiti\ActivitiDemo\BasicDemo\src\main\resources\bpmn" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\a备课资料\activiti\ActivitiDemo\ActSpringBootDemo\src\main\resources\processes" />
+      <recent name="E:\a备课资料\activiti\ActivitiDemo\BasicDemo\src\main\resources\bpmn" />
+      <recent name="E:\a备课资料\activiti\ActivitiDemo\ActSpringDemo\src\main\resources" />
+      <recent name="E:\a备课资料\activiti\ActivitiDemo\ActSpringBootDemo\src\main\resources" />
+      <recent name="E:\a备课资料\activiti\ActivitiDemo\ActSpringDemo\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestSecurityActiviti.findProcess">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActSpringTest.testRep" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ActSpringDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.roy.test" />
+      <option name="MAIN_CLASS_NAME" value="com.roy.test.ActSpringTest" />
+      <option name="METHOD_NAME" value="testRep" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActivitiTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ActSpringDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.roy" />
+      <option name="MAIN_CLASS_NAME" value="com.roy.ActivitiTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpingBootActivitiDemo.testStartProcess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ActSpringBootDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.roy" />
+      <option name="MAIN_CLASS_NAME" value="com.roy.SpingBootActivitiDemo" />
+      <option name="METHOD_NAME" value="testStartProcess" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSecurityActiviti.findProcess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ActSpringBootDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.roy" />
+      <option name="MAIN_CLASS_NAME" value="com.roy.TestSecurityActiviti" />
+      <option name="METHOD_NAME" value="findProcess" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSecurityActiviti.startProcess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ActSpringBootDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.roy" />
+      <option name="MAIN_CLASS_NAME" value="com.roy.TestSecurityActiviti" />
+      <option name="METHOD_NAME" value="startProcess" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ActSpringBootDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.roy.ActApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestSecurityActiviti.findProcess" />
+        <item itemvalue="JUnit.TestSecurityActiviti.startProcess" />
+        <item itemvalue="JUnit.SpingBootActivitiDemo.testStartProcess" />
+        <item itemvalue="JUnit.ActSpringTest.testRep" />
+        <item itemvalue="JUnit.ActivitiTest.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="758f1604-f057-4657-88ca-f243148829fc" name="Default Changelist" comment="" />
+      <created>1617762248385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617762248385</updated>
+      <workItem from="1617762251800" duration="2731000" />
+      <workItem from="1617774629629" duration="1003000" />
+      <workItem from="1617775982386" duration="9573000" />
+      <workItem from="1617789408619" duration="459000" />
+      <workItem from="1617789927309" duration="757000" />
+      <workItem from="1617842905806" duration="17564000" />
+      <workItem from="1617931694497" duration="2114000" />
+      <workItem from="1617934261373" duration="1312000" />
+      <workItem from="1617935603801" duration="103000" />
+      <workItem from="1617935745086" duration="184000" />
+      <workItem from="1617936011262" duration="530000" />
+      <workItem from="1617936565292" duration="70000" />
+      <workItem from="1617936729961" duration="1266000" />
+      <workItem from="1617938023256" duration="14773000" />
+      <workItem from="1618116655495" duration="10940000" />
+      <workItem from="1618142741203" duration="562000" />
+      <workItem from="1618212505473" duration="20000" />
+      <workItem from="1653974368338" duration="1075000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1617875890924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1617875890924" />
+    <state x="341" y="162" key="FileChooserDialogImpl" timestamp="1617954755463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="162" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1617954755463" />
+    <state x="341" y="162" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1617931715275" />
+    <state x="574" y="312" key="Github.CreateGistDialog" timestamp="1617954727093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="312" key="Github.CreateGistDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1617954727093" />
+    <state width="1493" height="335" key="GridCell.Tab.0.bottom" timestamp="1618143302806">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618132845333" />
+    <state width="1493" height="335" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618143302806" />
+    <state width="1493" height="335" key="GridCell.Tab.0.center" timestamp="1618143302806">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618132845333" />
+    <state width="1493" height="335" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618143302806" />
+    <state width="1493" height="335" key="GridCell.Tab.0.left" timestamp="1618143302805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618132845333" />
+    <state width="1493" height="335" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618143302805" />
+    <state width="1493" height="335" key="GridCell.Tab.0.right" timestamp="1618143302806">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618132845333" />
+    <state width="1493" height="335" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618143302806" />
+    <state width="1493" height="326" key="GridCell.Tab.1.bottom" timestamp="1618131269793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="326" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618131269793" />
+    <state width="1493" height="366" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617877670678" />
+    <state width="1493" height="326" key="GridCell.Tab.1.center" timestamp="1618131269793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="326" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618131269793" />
+    <state width="1493" height="366" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1617877670678" />
+    <state width="1493" height="326" key="GridCell.Tab.1.left" timestamp="1618131269793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="326" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618131269793" />
+    <state width="1493" height="366" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1617877670678" />
+    <state width="1493" height="326" key="GridCell.Tab.1.right" timestamp="1618131269793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="326" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1618131269793" />
+    <state width="1493" height="366" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1617877670678" />
+    <state x="71" y="46" key="SettingsEditor" timestamp="1617953285034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="71" y="46" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1617953285034" />
+    <state x="262" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1617935706838" />
+    <state x="490" y="154" width="543" height="524" key="StructurePopup" timestamp="1617958240048">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="154" width="543" height="524" key="StructurePopup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1617958240048" />
+    <state x="490" y="154" width="543" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1617852742206" />
+    <state x="560" y="189" key="chooseDestDirectoryDialog" timestamp="1617875515995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="560" y="189" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1617875515995" />
+    <state x="668" y="344" key="com.timout.bpmn.property.inspector.editor.string.StringEditorDialog" timestamp="1617961372680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="668" y="344" key="com.timout.bpmn.property.inspector.editor.string.StringEditorDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1617961372680" />
+    <state x="668" y="344" key="com.timout.bpmn.property.inspector.editor.string.StringEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1617871651026" />
+    <state x="459" y="145" width="1077" height="534" key="find.popup" timestamp="1617851595302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="459" y="145" width="1077" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1617851595302" />
+    <state x="178" y="72" key="new project wizard" timestamp="1617763455286">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="72" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1617763455286" />
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1617876871034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1617876871034" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/7.1.0.M6/activiti-engine-7.1.0.M6-sources.jar!/org/activiti/engine/impl/bpmn/deployer/ResourceNameUtil.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/activiti/activiti-api-process-runtime-impl/7.1.0.M6/activiti-api-process-runtime-impl-7.1.0.M6.jar!/org/activiti/runtime/api/impl/ProcessRuntimeImpl.class</url>
+          <line>130</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
